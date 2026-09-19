@@ -2,3 +2,4 @@ Hello from Main and Feature A
 I am working on a new feature
 Tag version 1.1
 New line
+Hook test
