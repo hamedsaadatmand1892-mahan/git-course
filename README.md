@@ -1,3 +1,1 @@
-This file was created on GitHub
-Main project update
-Project settings update
+Shopping cart feature is under development
