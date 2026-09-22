@@ -1,1 +1,1 @@
-Shopping cart feature is under development
+Login feature is being developed
